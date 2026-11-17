@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="940" viewBox="0 0 520 940" fill="none">
+  <defs>
+    <linearGradient id="case" x1="115" y1="40" x2="420" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#263956"/>
+      <stop offset="1" stop-color="#101A2D"/>
+    </linearGradient>
+    <linearGradient id="bubble" x1="250" y1="470" x2="423" y2="542" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8DCBFF"/>
+      <stop offset="1" stop-color="#8D9BFF"/>
+    </linearGradient>
+    <linearGradient id="person" x1="180" y1="0" x2="220" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9ED7EF"/>
+      <stop offset="1" stop-color="#4775A9"/>
+    </linearGradient>
+    <filter id="shadow" x="7" y="1" width="506" height="943" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="18"/>
+      <feOffset dy="14"/>
+      <feColorMatrix values="0 0 0 0 0.011 0 0 0 0 0.024 0 0 0 0 0.055 0 0 0 0.44 0"/>
+      <feBlend in2="SourceGraphic" result="shape"/>
+    </filter>
+    <clipPath id="phone">
+      <rect x="63" y="33" width="394" height="854" rx="48"/>
+    </clipPath>
+  </defs>
+  <rect width="520" height="940" rx="36" fill="#09111F"/>
+  <circle cx="88" cy="122" r="2" fill="#D6E8FF"/>
+  <circle cx="442" cy="201" r="2" fill="#9FC9FF"/>
+  <circle cx="427" cy="822" r="1.5" fill="#D6E8FF"/>
+  <g filter="url(#shadow)">
+    <rect x="63" y="33" width="394" height="854" rx="48" fill="url(#case)" stroke="#7696BD" stroke-width="2"/>
+    <g clip-path="url(#phone)">
+      <rect x="70" y="41" width="380" height="838" rx="41" fill="#FBFCFE"/>
+      <rect x="70" y="41" width="380" height="44" fill="#FBFCFE"/>
+      <text x="103" y="69" fill="#27374E" font-family="DM Sans, Arial, sans-serif" font-size="12" font-weight="700">9:41</text>
+      <path d="M386 58h4v11h-4zM393 55h4v14h-4zM400 52h4v17h-4zM414 57a9 9 0 1 1 0 16h-9l2-4-2-4a9 9 0 0 1 9-8Z" fill="#35465D"/>
+      <rect x="196" y="48" width="128" height="26" rx="13" fill="#141E2E"/>
+      <path d="M70 85h380" stroke="#E8ECF4"/>
+      <path d="M96 115h12l-6-6-6 6Z" fill="#71839C"/>
+      <text x="153" y="118" fill="#17243A" font-family="DM Sans, Arial, sans-serif" font-size="16" font-weight="700">e-converse</text>
+      <circle cx="405" cy="112" r="18" fill="#E7DFF6"/>
+      <text x="398" y="116" fill="#5D4682" font-family="DM Sans, Arial, sans-serif" font-size="10" font-weight="700">JC</text>
+      <rect x="87" y="142" width="346" height="40" rx="10" fill="#F2F5F9"/>
+      <circle cx="105" cy="162" r="5" stroke="#98A5B6" stroke-width="1.3"/>
+      <path d="m109 166 4 4" stroke="#98A5B6" stroke-width="1.3" stroke-linecap="round"/>
+      <text x="123" y="166" fill="#9AA6B8" font-family="DM Sans, Arial, sans-serif" font-size="10">Pesquisar conversas</text>
+      <text x="89" y="220" fill="#293A52" font-family="DM Sans, Arial, sans-serif" font-size="14" font-weight="700">As tuas conversas</text>
+      <text x="89" y="240" fill="#8C99AC" font-family="DM Sans, Arial, sans-serif" font-size="10">Continua de onde ficaste</text>
+      <circle cx="111" cy="286" r="22" fill="url(#person)"/>
+      <text x="103" y="290" fill="#fff" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="700">MS</text>
+      <text x="149" y="281" fill="#314058" font-family="DM Sans, Arial, sans-serif" font-size="12" font-weight="700">Marta Silva</text>
+      <text x="149" y="299" fill="#8492A6" font-family="DM Sans, Arial, sans-serif" font-size="10">Tens apontamentos de cálculo?</text>
+      <text x="392" y="279" fill="#95A2B5" font-family="DM Sans, Arial, sans-serif" font-size="8">14:32</text>
+      <path d="M89 323h342" stroke="#EDF0F5"/>
+      <circle cx="111" cy="365" r="22" fill="#D2A9F6"/>
+      <text x="103" y="369" fill="#fff" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="700">TR</text>
+      <text x="149" y="360" fill="#314058" font-family="DM Sans, Arial, sans-serif" font-size="12" font-weight="700">Projeto final</text>
+      <text x="149" y="378" fill="#8492A6" font-family="DM Sans, Arial, sans-serif" font-size="10">Tiago: posso rever a apresentação</text>
+      <text x="392" y="358" fill="#95A2B5" font-family="DM Sans, Arial, sans-serif" font-size="8">13:48</text>
+      <path d="M89 402h342" stroke="#EDF0F5"/>
+      <circle cx="111" cy="444" r="22" fill="#E9AB83"/>
+      <text x="103" y="448" fill="#fff" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="700">AC</text>
+      <text x="149" y="439" fill="#314058" font-family="DM Sans, Arial, sans-serif" font-size="12" font-weight="700">Ana Costa</text>
+      <text x="149" y="457" fill="#8492A6" font-family="DM Sans, Arial, sans-serif" font-size="10">Combinamos na biblioteca?</text>
+      <text x="392" y="437" fill="#95A2B5" font-family="DM Sans, Arial, sans-serif" font-size="8">Ontem</text>
+      <path d="M89 481h342" stroke="#EDF0F5"/>
+      <circle cx="111" cy="523" r="22" fill="#8EAD9E"/>
+      <text x="103" y="527" fill="#fff" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="700">JP</text>
+      <text x="149" y="518" fill="#314058" font-family="DM Sans, Arial, sans-serif" font-size="12" font-weight="700">João Pereira</text>
+      <text x="149" y="536" fill="#8492A6" font-family="DM Sans, Arial, sans-serif" font-size="10">Obrigado pela ajuda!</text>
+      <text x="392" y="516" fill="#95A2B5" font-family="DM Sans, Arial, sans-serif" font-size="8">Ontem</text>
+      <path d="M89 560h342" stroke="#EDF0F5"/>
+      <rect x="87" y="585" width="346" height="110" rx="13" fill="#EEF5FD"/>
+      <circle cx="115" cy="616" r="12" fill="#DCEBFA"/>
+      <path d="M111 616h8m-4-4v8" stroke="#6D95C0" stroke-width="1.2" stroke-linecap="round"/>
+      <text x="137" y="614" fill="#354761" font-family="DM Sans, Arial, sans-serif" font-size="11" font-weight="700">A tua comunidade</text>
+      <text x="107" y="648" fill="#71819A" font-family="DM Sans, Arial, sans-serif" font-size="10">Descobre colegas e grupos</text>
+      <text x="107" y="665" fill="#71819A" font-family="DM Sans, Arial, sans-serif" font-size="10">de estudo da tua universidade.</text>
+      <rect x="70" y="797" width="380" height="82" fill="#fff"/>
+      <path d="M70 797h380" stroke="#E8ECF4"/>
+      <path d="M130 823h16v13h-16zM134 819h8v4" stroke="#6388B6" stroke-width="1.5" stroke-linejoin="round"/>
+      <text x="124" y="858" fill="#6388B6" font-family="DM Sans, Arial, sans-serif" font-size="8" font-weight="600">Conversas</text>
+      <path d="M237 822h17a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-8l-5 4v-4h-4a2 2 0 0 1-2-2v-10a2 2 0 0 1 2-2Z" stroke="#9AA7B8" stroke-width="1.5" stroke-linejoin="round"/>
+      <text x="234" y="858" fill="#8794A7" font-family="DM Sans, Arial, sans-serif" font-size="8">Grupos</text>
+      <circle cx="355" cy="829" r="9" stroke="#9AA7B8" stroke-width="1.5"/>
+      <path d="M340 850c2-8 7-12 15-12s13 4 15 12" stroke="#9AA7B8" stroke-width="1.5" stroke-linecap="round"/>
+      <text x="344" y="870" fill="#8794A7" font-family="DM Sans, Arial, sans-serif" font-size="8">Perfil</text>
+    </g>
+  </g>
+</svg>

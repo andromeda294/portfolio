@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" fill="none">
+  <defs>
+    <linearGradient id="frame" x1="128" y1="85" x2="1302" y2="824" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17243B"/>
+      <stop offset="1" stop-color="#0B1221"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="368" y1="193" x2="1268" y2="713" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8DCBFF"/>
+      <stop offset="1" stop-color="#7B8CFF"/>
+    </linearGradient>
+    <linearGradient id="avatar1" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#82C8E8"/>
+      <stop offset="1" stop-color="#4775A9"/>
+    </linearGradient>
+    <linearGradient id="avatar2" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#D2A9F6"/>
+      <stop offset="1" stop-color="#8069C1"/>
+    </linearGradient>
+    <linearGradient id="avatar3" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F5B979"/>
+      <stop offset="1" stop-color="#C86D7E"/>
+    </linearGradient>
+    <filter id="shadow" x="30" y="12" width="1380" height="900" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feGaussianBlur in="BackgroundImageFix" stdDeviation="25"/>
+      <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="20"/>
+      <feGaussianBlur stdDeviation="19"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix values="0 0 0 0 0.0156863 0 0 0 0 0.0352941 0 0 0 0 0.0823529 0 0 0 0.44 0"/>
+      <feBlend in2="effect1_backgroundBlur" result="effect2_dropShadow"/>
+      <feBlend in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
+    </filter>
+    <clipPath id="screen">
+      <rect x="99" y="82" width="1242" height="736" rx="22"/>
+    </clipPath>
+  </defs>
+  <rect width="1440" height="900" rx="32" fill="#09111F"/>
+  <circle cx="1274" cy="128" r="2" fill="#D6E8FF"/>
+  <circle cx="90" cy="730" r="2" fill="#9FC9FF"/>
+  <circle cx="1290" cy="745" r="1.5" fill="#D6E8FF"/>
+  <g filter="url(#shadow)">
+    <rect x="99" y="82" width="1242" height="736" rx="22" fill="#F8FAFE"/>
+    <g clip-path="url(#screen)">
+      <rect x="99" y="82" width="1242" height="62" fill="#fff"/>
+      <path d="M99 143.5H1341" stroke="#E8ECF4"/>
+      <circle cx="133" cy="113" r="12" fill="#90CFFF"/>
+      <path d="M128 113h10m-5-5v10" stroke="#10223B" stroke-width="2" stroke-linecap="round"/>
+      <text x="155" y="118" fill="#17243A" font-family="DM Sans, Arial, sans-serif" font-size="17" font-weight="700">e-converse</text>
+      <text x="1140" y="117" fill="#8190A6" font-family="DM Sans, Arial, sans-serif" font-size="11">COMUNIDADE UNIVERSITÁRIA</text>
+      <circle cx="1303" cy="113" r="15" fill="#E4D9F6"/>
+      <text x="1297" y="117" fill="#5D4682" font-family="DM Sans, Arial, sans-serif" font-size="10" font-weight="700">JC</text>
+
+      <rect x="99" y="144" width="225" height="674" fill="#F2F5FB"/>
+      <text x="124" y="181" fill="#8996A9" font-family="DM Sans, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">MENU</text>
+      <rect x="115" y="197" width="193" height="42" rx="9" fill="#E4F1FF"/>
+      <path d="M135 211h13v13h-13zM138 208v3m7-3v3" stroke="#3676B8" stroke-width="1.5" stroke-linejoin="round"/>
+      <text x="159" y="223" fill="#275987" font-family="DM Sans, Arial, sans-serif" font-size="13" font-weight="600">Conversas</text>
+      <circle cx="284" cy="218" r="11" fill="#5A97D4"/>
+      <text x="280.5" y="222" fill="#fff" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="700">4</text>
+      <path d="M135 265h14a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-7l-4 4v-4h-3a2 2 0 0 1-2-2v-10a2 2 0 0 1 2-2Z" stroke="#8A97A9" stroke-width="1.5" stroke-linejoin="round"/>
+      <text x="159" y="278" fill="#68768A" font-family="DM Sans, Arial, sans-serif" font-size="13">Mensagens</text>
+      <path d="M136 321h13m-10-4v8m7-8v8m-13-13h19v18h-19z" stroke="#8A97A9" stroke-width="1.4" stroke-linejoin="round"/>
+      <text x="159" y="332" fill="#68768A" font-family="DM Sans, Arial, sans-serif" font-size="13">Grupos de estudo</text>
+      <text x="124" y="388" fill="#8996A9" font-family="DM Sans, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">A TUA COMUNIDADE</text>
+      <circle cx="141" cy="420" r="13" fill="#DDEAFF"/>
+      <path d="M136 421h10m-5-5v10" stroke="#5C83B5" stroke-width="1.4" stroke-linecap="round"/>
+      <text x="163" y="424" fill="#536176" font-family="DM Sans, Arial, sans-serif" font-size="12">Universidade</text>
+      <text x="163" y="440" fill="#9AA6B8" font-family="DM Sans, Arial, sans-serif" font-size="10">Comunidade</text>
+      <rect x="122" y="746" width="177" height="1" fill="#E0E6F0"/>
+      <circle cx="140" cy="779" r="15" fill="#DFE9F9"/>
+      <text x="135" y="783" fill="#4B6588" font-family="DM Sans, Arial, sans-serif" font-size="10" font-weight="700">JC</text>
+      <text x="164" y="778" fill="#36455B" font-family="DM Sans, Arial, sans-serif" font-size="11" font-weight="600">O meu perfil</text>
+      <text x="164" y="793" fill="#9AA6B8" font-family="DM Sans, Arial, sans-serif" font-size="9">Estudante</text>
+
+      <rect x="324" y="144" width="274" height="674" fill="#fff"/>
+      <text x="350" y="181" fill="#25364E" font-family="DM Sans, Arial, sans-serif" font-size="16" font-weight="700">Mensagens</text>
+      <text x="350" y="202" fill="#8C99AC" font-family="DM Sans, Arial, sans-serif" font-size="10">Encontra a tua comunidade</text>
+      <rect x="348" y="218" width="226" height="36" rx="8" fill="#F3F6FA"/>
+      <circle cx="365" cy="236" r="5" stroke="#98A5B6" stroke-width="1.3"/>
+      <path d="m369 240 4 4" stroke="#98A5B6" stroke-width="1.3" stroke-linecap="round"/>
+      <text x="381" y="240" fill="#9AA6B8" font-family="DM Sans, Arial, sans-serif" font-size="10">Pesquisar conversas</text>
+      <rect x="337" y="270" width="248" height="75" rx="10" fill="#F0F6FF"/>
+      <circle cx="366" cy="305" r="19" fill="url(#avatar1)"/>
+      <text x="359" y="309" fill="#fff" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="700">MS</text>
+      <text x="397" y="299" fill="#314058" font-family="DM Sans, Arial, sans-serif" font-size="12" font-weight="700">Marta Silva</text>
+      <text x="397" y="317" fill="#8492A6" font-family="DM Sans, Arial, sans-serif" font-size="10">Tens apontamentos de cálculo?</text>
+      <text x="543" y="291" fill="#95A2B5" font-family="DM Sans, Arial, sans-serif" font-size="8">14:32</text>
+      <circle cx="566" cy="324" r="4" fill="#65A9EA"/>
+      <circle cx="366" cy="385" r="19" fill="url(#avatar2)"/>
+      <text x="359" y="389" fill="#fff" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="700">TR</text>
+      <text x="397" y="379" fill="#314058" font-family="DM Sans, Arial, sans-serif" font-size="12" font-weight="700">Grupo · Projeto final</text>
+      <text x="397" y="397" fill="#8492A6" font-family="DM Sans, Arial, sans-serif" font-size="10">Tiago: posso rever a apresentação</text>
+      <text x="543" y="371" fill="#95A2B5" font-family="DM Sans, Arial, sans-serif" font-size="8">13:48</text>
+      <circle cx="366" cy="455" r="19" fill="url(#avatar3)"/>
+      <text x="359" y="459" fill="#fff" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="700">AC</text>
+      <text x="397" y="449" fill="#314058" font-family="DM Sans, Arial, sans-serif" font-size="12" font-weight="700">Ana Costa</text>
+      <text x="397" y="467" fill="#8492A6" font-family="DM Sans, Arial, sans-serif" font-size="10">Combinamos na biblioteca?</text>
+      <text x="543" y="441" fill="#95A2B5" font-family="DM Sans, Arial, sans-serif" font-size="8">Ontem</text>
+      <circle cx="366" cy="525" r="19" fill="#8EAD9E"/>
+      <text x="359" y="529" fill="#fff" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="700">JP</text>
+      <text x="397" y="519" fill="#314058" font-family="DM Sans, Arial, sans-serif" font-size="12" font-weight="700">João Pereira</text>
+      <text x="397" y="537" fill="#8492A6" font-family="DM Sans, Arial, sans-serif" font-size="10">Obrigado pela ajuda!</text>
+      <text x="543" y="511" fill="#95A2B5" font-family="DM Sans, Arial, sans-serif" font-size="8">Ontem</text>
+
+      <rect x="598" y="144" width="539" height="674" fill="#FCFDFE"/>
+      <path d="M598 211.5H1137" stroke="#E9EDF3"/>
+      <circle cx="633" cy="177" r="20" fill="url(#avatar1)"/>
+      <text x="626" y="181" fill="#fff" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="700">MS</text>
+      <text x="665" y="174" fill="#25364E" font-family="DM Sans, Arial, sans-serif" font-size="13" font-weight="700">Marta Silva</text>
+      <circle cx="668" cy="192" r="3" fill="#62B48C"/>
+      <text x="677" y="196" fill="#91A0B4" font-family="DM Sans, Arial, sans-serif" font-size="9">Disponível</text>
+      <circle cx="1095" cy="178" r="15" fill="#F2F5FA"/>
+      <path d="M1092 175a4 4 0 1 1 6 3.46c-1.6.92-2 1.54-2 3.04m0 4h.01" stroke="#7C8BA0" stroke-width="1.3" stroke-linecap="round"/>
+      <text x="814" y="237" fill="#A2ADBD" font-family="DM Sans, Arial, sans-serif" font-size="9">HOJE · 14:25</text>
+      <rect x="626" y="257" width="292" height="51" rx="12" fill="#EEF2F8"/>
+      <text x="644" y="278" fill="#506078" font-family="DM Sans, Arial, sans-serif" font-size="11">Olá! Estás também na turma de</text>
+      <text x="644" y="295" fill="#506078" font-family="DM Sans, Arial, sans-serif" font-size="11">matemática aplicada?</text>
+      <text x="886" y="322" fill="#9BA8BA" font-family="DM Sans, Arial, sans-serif" font-size="8">14:27</text>
+      <rect x="761" y="339" width="347" height="50" rx="12" fill="url(#accent)"/>
+      <text x="779" y="360" fill="#10223B" font-family="DM Sans, Arial, sans-serif" font-size="11">Sim! Estou a rever a matéria para o teste.</text>
+      <text x="779" y="377" fill="#17375A" font-family="DM Sans, Arial, sans-serif" font-size="11">Também estás a preparar-te?</text>
+      <text x="1076" y="403" fill="#9BA8BA" font-family="DM Sans, Arial, sans-serif" font-size="8">14:29</text>
+      <rect x="626" y="420" width="289" height="51" rx="12" fill="#EEF2F8"/>
+      <text x="644" y="441" fill="#506078" font-family="DM Sans, Arial, sans-serif" font-size="11">Sim, a parte das funções está a dar</text>
+      <text x="644" y="458" fill="#506078" font-family="DM Sans, Arial, sans-serif" font-size="11">mais trabalho. Queres estudar juntos?</text>
+      <text x="882" y="485" fill="#9BA8BA" font-family="DM Sans, Arial, sans-serif" font-size="8">14:30</text>
+      <rect x="761" y="502" width="347" height="50" rx="12" fill="url(#accent)"/>
+      <text x="779" y="532" fill="#10223B" font-family="DM Sans, Arial, sans-serif" font-size="11">Claro! Podemos combinar na biblioteca.</text>
+      <text x="1076" y="566" fill="#9BA8BA" font-family="DM Sans, Arial, sans-serif" font-size="8">14:32</text>
+      <rect x="624" y="720" width="487" height="54" rx="11" fill="#F2F5F9"/>
+      <text x="647" y="752" fill="#A1ADBC" font-family="DM Sans, Arial, sans-serif" font-size="11">Escreve uma mensagem...</text>
+      <circle cx="1080" cy="747" r="18" fill="#7CBFFF"/>
+      <path d="m1074 747 11-5-4 11-2-4-5-2Z" fill="#10223B"/>
+
+      <rect x="1137" y="144" width="204" height="674" fill="#F8FAFE"/>
+      <path d="M1137 144v674" stroke="#E8ECF4"/>
+      <circle cx="1239" cy="222" r="32" fill="#DCEBFA"/>
+      <path d="M1227 223h24m-12-12v24" stroke="#6D95C0" stroke-width="2" stroke-linecap="round"/>
+      <text x="1180" y="282" fill="#34445C" font-family="DM Sans, Arial, sans-serif" font-size="12" font-weight="700">A tua universidade</text>
+      <text x="1183" y="302" fill="#8794A7" font-family="DM Sans, Arial, sans-serif" font-size="9">Um espaço para estares</text>
+      <text x="1195" y="317" fill="#8794A7" font-family="DM Sans, Arial, sans-serif" font-size="9">mais perto da comunidade</text>
+      <rect x="1160" y="353" width="158" height="1" fill="#E2E8F0"/>
+      <text x="1162" y="384" fill="#8895A8" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1">EM COMUM</text>
+      <circle cx="1176" cy="414" r="11" fill="#EAF2FC"/>
+      <path d="M1172 414h8m-4-4v8" stroke="#7497BE" stroke-width="1.2" stroke-linecap="round"/>
+      <text x="1196" y="418" fill="#5A687C" font-family="DM Sans, Arial, sans-serif" font-size="10">Matemática aplicada</text>
+      <circle cx="1176" cy="448" r="11" fill="#F0EAFB"/>
+      <path d="M1172 448h8m-4-4v8" stroke="#8D79B4" stroke-width="1.2" stroke-linecap="round"/>
+      <text x="1196" y="452" fill="#5A687C" font-family="DM Sans, Arial, sans-serif" font-size="10">Grupo de estudo</text>
+      <rect x="1160" y="486" width="158" height="1" fill="#E2E8F0"/>
+      <text x="1162" y="517" fill="#8895A8" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1">SOBRE O ESPAÇO</text>
+      <text x="1162" y="545" fill="#768499" font-family="DM Sans, Arial, sans-serif" font-size="9">Descobre colegas, partilha</text>
+      <text x="1162" y="561" fill="#768499" font-family="DM Sans, Arial, sans-serif" font-size="9">ideias e estuda em conjunto.</text>
+    </g>
+  </g>
+</svg>

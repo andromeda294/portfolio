@@ -1,0 +1,42 @@
+.live-clock {
+  position: absolute;
+  right: 0;
+  bottom: 24px;
+  display: grid;
+  justify-items: end;
+  gap: 5px;
+  color: #b5c5dc;
+  font-variant-numeric: tabular-nums;
+}
+
+.live-clock-label {
+  color: #7f91ac;
+  font-size: 8px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+}
+
+.live-clock-date {
+  color: #9fb6d3;
+  font-size: 9px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.live-clock-time {
+  color: var(--blue);
+  font-family: var(--heading);
+  font-size: 18px;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 1px;
+}
+
+@media (max-width: 600px) {
+  .live-clock {
+    bottom: 20px;
+  }
+
+  .live-clock-time {
+    font-size: 15px;
+  }
+}

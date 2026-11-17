@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760" fill="none">
+  <defs>
+    <linearGradient id="backdrop" x1="84" y1="66" x2="1183" y2="718" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12251F"/>
+      <stop offset="1" stop-color="#0B1416"/>
+    </linearGradient>
+    <linearGradient id="green" x1="309" y1="173" x2="918" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#86CF9D"/>
+      <stop offset="1" stop-color="#43A875"/>
+    </linearGradient>
+    <linearGradient id="water" x1="934" y1="422" x2="1146" y2="538" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A9DBF1"/>
+      <stop offset="1" stop-color="#6FADD6"/>
+    </linearGradient>
+    <filter id="shadow" x="48" y="24" width="1184" height="712" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="15"/>
+      <feOffset dy="16"/>
+      <feColorMatrix values="0 0 0 0 0.015 0 0 0 0 0.035 0 0 0 0 0.03 0 0 0 0.3 0"/>
+      <feBlend in2="SourceGraphic" result="shape"/>
+    </filter>
+    <clipPath id="window">
+      <rect x="101" y="67" width="1078" height="626" rx="25"/>
+    </clipPath>
+  </defs>
+  <rect width="1280" height="760" rx="30" fill="#091311"/>
+  <circle cx="1159" cy="111" r="2" fill="#B2E6C2"/>
+  <circle cx="94" cy="626" r="1.5" fill="#B2E6C2"/>
+  <circle cx="1105" cy="652" r="1.5" fill="#D1F2DA"/>
+  <g filter="url(#shadow)">
+    <rect x="101" y="67" width="1078" height="626" rx="25" fill="#F6F8F5"/>
+    <g clip-path="url(#window)">
+      <rect x="101" y="67" width="1078" height="54" fill="#fff"/>
+      <path d="M101 120.5H1179" stroke="#E8ECE8"/>
+      <circle cx="130" cy="94" r="11" fill="#4AA77A"/>
+      <path d="M126 94h8m-4-4v8" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+      <text x="150" y="99" fill="#1C392B" font-family="DM Sans, Arial, sans-serif" font-size="15" font-weight="700">SIGA ALLANA</text>
+      <text x="1039" y="98" fill="#99A69E" font-family="DM Sans, Arial, sans-serif" font-size="9" letter-spacing="1">O TEU PROGRESSO, NUM SÓ LUGAR</text>
+      <circle cx="1140" cy="94" r="13" fill="#E3F0E7"/>
+      <text x="1135" y="98" fill="#46795C" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="700">JC</text>
+
+      <rect x="101" y="121" width="200" height="572" fill="#EEF3EF"/>
+      <text x="125" y="157" fill="#91A198" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.3">MENU</text>
+      <rect x="116" y="173" width="170" height="38" rx="9" fill="#DCEDE1"/>
+      <path d="M134 185h13v13h-13zM138 181h5v4" stroke="#3B8A62" stroke-width="1.4" stroke-linejoin="round"/>
+      <text x="157" y="197" fill="#356B4E" font-family="DM Sans, Arial, sans-serif" font-size="11" font-weight="600">Resumo</text>
+      <path d="M135 238h12m-6-6v12m-6-6 12 0" stroke="#91A198" stroke-width="1.4" stroke-linecap="round"/>
+      <text x="157" y="242" fill="#75867B" font-family="DM Sans, Arial, sans-serif" font-size="11">Refeições</text>
+      <circle cx="141" cy="280" r="6" stroke="#91A198" stroke-width="1.4"/>
+      <path d="M141 271v9l6 4" stroke="#91A198" stroke-width="1.4" stroke-linecap="round"/>
+      <text x="157" y="284" fill="#75867B" font-family="DM Sans, Arial, sans-serif" font-size="11">Histórico</text>
+      <path d="M116 321h170" stroke="#DDE5DE"/>
+      <text x="125" y="348" fill="#91A198" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.2">O TEU ESPAÇO</text>
+      <circle cx="139" cy="378" r="10" fill="#DFEEE4"/>
+      <path d="M139 372v12m-4-6h8" stroke="#4B936B" stroke-width="1.2" stroke-linecap="round"/>
+      <text x="157" y="382" fill="#75867B" font-family="DM Sans, Arial, sans-serif" font-size="10">Metas diárias</text>
+      <path d="M116 656h170" stroke="#DDE5DE"/>
+      <circle cx="139" cy="676" r="12" fill="#DDEBE0"/>
+      <text x="135" y="680" fill="#47765A" font-family="DM Sans, Arial, sans-serif" font-size="8" font-weight="700">JC</text>
+      <text x="158" y="680" fill="#56695C" font-family="DM Sans, Arial, sans-serif" font-size="10">O meu perfil</text>
+
+      <rect x="301" y="121" width="878" height="572" fill="#F7F9F7"/>
+      <text x="337" y="164" fill="#203B2C" font-family="DM Sans, Arial, sans-serif" font-size="21" font-weight="700">Resumo de hoje</text>
+      <text x="337" y="185" fill="#8A9B8F" font-family="DM Sans, Arial, sans-serif" font-size="10">Pequenos passos, um dia de cada vez.</text>
+      <rect x="337" y="205" width="516" height="167" rx="15" fill="url(#green)"/>
+      <circle cx="786" cy="239" r="31" fill="#FFFFFF" fill-opacity=".12"/>
+      <path d="M786 220c-7 11-11 17-11 24a11 11 0 0 0 22 0c0-7-4-13-11-24Z" stroke="#F2FFF4" stroke-width="1.7" stroke-linejoin="round"/>
+      <text x="364" y="240" fill="#E5F8EA" font-family="DM Sans, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1">CALORIAS</text>
+      <text x="364" y="291" fill="#fff" font-family="DM Sans, Arial, sans-serif" font-size="42" font-weight="700">1 240</text>
+      <text x="493" y="290" fill="#E0F5E5" font-family="DM Sans, Arial, sans-serif" font-size="12">/ 2 000 kcal</text>
+      <rect x="364" y="319" width="445" height="6" rx="3" fill="#FFFFFF" fill-opacity=".25"/>
+      <rect x="364" y="319" width="276" height="6" rx="3" fill="#ECFFF1"/>
+      <text x="364" y="348" fill="#E0F5E5" font-family="DM Sans, Arial, sans-serif" font-size="9">Exemplo de acompanhamento diário</text>
+
+      <rect x="869" y="205" width="273" height="167" rx="15" fill="#fff" stroke="#E6ECE7"/>
+      <text x="892" y="234" fill="#4F6254" font-family="DM Sans, Arial, sans-serif" font-size="11" font-weight="600">Macronutrientes</text>
+      <text x="892" y="267" fill="#78877C" font-family="DM Sans, Arial, sans-serif" font-size="9">Proteína</text>
+      <text x="1092" y="267" fill="#344C3A" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="600">68 g</text>
+      <rect x="892" y="278" width="222" height="5" rx="2.5" fill="#EDF1ED"/>
+      <rect x="892" y="278" width="141" height="5" rx="2.5" fill="#67B889"/>
+      <text x="892" y="307" fill="#78877C" font-family="DM Sans, Arial, sans-serif" font-size="9">Hidratos</text>
+      <text x="1092" y="307" fill="#344C3A" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="600">124 g</text>
+      <rect x="892" y="318" width="222" height="5" rx="2.5" fill="#EDF1ED"/>
+      <rect x="892" y="318" width="166" height="5" rx="2.5" fill="#E9B96D"/>
+      <text x="892" y="347" fill="#78877C" font-family="DM Sans, Arial, sans-serif" font-size="9">Gordura</text>
+      <text x="1092" y="347" fill="#344C3A" font-family="DM Sans, Arial, sans-serif" font-size="9" font-weight="600">42 g</text>
+      <rect x="892" y="358" width="222" height="5" rx="2.5" fill="#EDF1ED"/>
+      <rect x="892" y="358" width="112" height="5" rx="2.5" fill="#A593D0"/>
+
+      <rect x="337" y="390" width="516" height="256" rx="15" fill="#fff" stroke="#E6ECE7"/>
+      <text x="362" y="424" fill="#34483A" font-family="DM Sans, Arial, sans-serif" font-size="12" font-weight="700">Refeições recentes</text>
+      <text x="362" y="448" fill="#96A297" font-family="DM Sans, Arial, sans-serif" font-size="9">Os teus registos, organizados num só lugar.</text>
+      <circle cx="386" cy="493" r="18" fill="#F8EBD6"/>
+      <circle cx="382" cy="491" r="5" fill="#D99D54"/>
+      <circle cx="391" cy="495" r="4" fill="#9EBC73"/>
+      <text x="418" y="489" fill="#4B5D4F" font-family="DM Sans, Arial, sans-serif" font-size="10" font-weight="600">Pequeno-almoço</text>
+      <text x="418" y="506" fill="#99A69B" font-family="DM Sans, Arial, sans-serif" font-size="9">Hoje · 08:15</text>
+      <text x="783" y="496" text-anchor="end" fill="#65776A" font-family="DM Sans, Arial, sans-serif" font-size="9">320 kcal</text>
+      <path d="M362 523h466" stroke="#EDF1ED"/>
+      <circle cx="386" cy="557" r="18" fill="#E5F0E2"/>
+      <path d="M378 560c5-10 14-11 18 0" stroke="#72A06E" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="386" cy="552" r="4" fill="#72A06E"/>
+      <text x="418" y="553" fill="#4B5D4F" font-family="DM Sans, Arial, sans-serif" font-size="10" font-weight="600">Almoço</text>
+      <text x="418" y="570" fill="#99A69B" font-family="DM Sans, Arial, sans-serif" font-size="9">Hoje · 13:05</text>
+      <text x="783" y="560" text-anchor="end" fill="#65776A" font-family="DM Sans, Arial, sans-serif" font-size="9">540 kcal</text>
+      <path d="M362 587h466" stroke="#EDF1ED"/>
+      <circle cx="386" cy="617" r="18" fill="#F4E6DD"/>
+      <path d="M378 620h16m-13-5h10" stroke="#C28763" stroke-width="1.6" stroke-linecap="round"/>
+      <text x="418" y="613" fill="#4B5D4F" font-family="DM Sans, Arial, sans-serif" font-size="10" font-weight="600">Lanche</text>
+      <text x="418" y="630" fill="#99A69B" font-family="DM Sans, Arial, sans-serif" font-size="9">Hoje · 16:20</text>
+      <text x="783" y="620" text-anchor="end" fill="#65776A" font-family="DM Sans, Arial, sans-serif" font-size="9">180 kcal</text>
+
+      <rect x="869" y="390" width="273" height="256" rx="15" fill="#fff" stroke="#E6ECE7"/>
+      <text x="892" y="424" fill="#34483A" font-family="DM Sans, Arial, sans-serif" font-size="12" font-weight="700">Água</text>
+      <text x="892" y="447" fill="#96A297" font-family="DM Sans, Arial, sans-serif" font-size="9">Acompanha a tua hidratação.</text>
+      <circle cx="1005" cy="535" r="57" fill="#EFF7FA"/>
+      <circle cx="1005" cy="535" r="48" stroke="#DDEEF5" stroke-width="7"/>
+      <circle cx="1005" cy="535" r="48" stroke="url(#water)" stroke-width="7" stroke-linecap="round" stroke-dasharray="190 302" transform="rotate(-90 1005 535)"/>
+      <path d="M1005 512c-7 10-10 16-10 22a10 10 0 0 0 20 0c0-6-3-12-10-22Z" fill="#70B6D7"/>
+      <text x="1005" y="615" text-anchor="middle" fill="#718477" font-family="DM Sans, Arial, sans-serif" font-size="9">4 de 8 copos</text>
+      <rect x="1148" y="657" width="13" height="13" rx="6.5" fill="#9DD3AA"/>
+      <text x="1123" y="679" text-anchor="end" fill="#829187" font-family="DM Sans, Arial, sans-serif" font-size="8">Pré-visualização conceptual</text>
+    </g>
+  </g>
+</svg>
